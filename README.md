@@ -43,6 +43,7 @@ Front-End Developer with hands-on experience in React, Next.js, andStrapi, speci
   <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Neon" src="https://img.shields.io/badge/-Neon-008AFF?style=for-the-badge&logo=neon&logoColor=white" />
+  <img alt="Aiven" src="https://img.shields.io/badge/Aiven-FF3500?style=for-the-badge&logo=aiven&logoColor=white" />
   <img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
@@ -50,6 +51,7 @@ Front-End Developer with hands-on experience in React, Next.js, andStrapi, speci
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </p>
 
