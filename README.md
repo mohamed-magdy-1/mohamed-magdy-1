@@ -8,7 +8,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cSJ0gkt2/image.gif"/>
+<img align="right" alt="Coding" 
+style="width:280px; height:350px; object-fit:cover;  border-radius:10px;" 
+src="https://raw.githubusercontent.com/mohamed-magdy-1/mohamed-magdy-1/main/whelpless/ششش.gif"/>
 
 <h3 align="left">🧑‍💻 PROFILE</h3>
 <p align="left">
