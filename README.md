@@ -1,10 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Magdy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mohamed+Magdy;Front-End+Developer;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cSJ0gkt2/image.gif"/>
 
 <h3 align="left">🧑‍💻 PROFILE</h3>
 <p align="left">
@@ -86,8 +90,6 @@ Passionate about clean code and continuous learning, seeking a Front-End role in
 <!-- ✅ Top Languages - ده شغال تمام -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-magdy-1&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
-<!-- ✅ GitHub Stats - ده شغال تمام -->
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-magdy-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 
