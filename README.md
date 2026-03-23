@@ -21,7 +21,7 @@ Passionate about clean code and continuous learning, seeking a Front-End role in
 <!--- SOCIAL MEDIA BADGES --->
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="linkedin.com/in/mohamed-abdelkader-54904b350" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -33,7 +33,7 @@ Passionate about clean code and continuous learning, seeking a Front-End role in
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:king44123no@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -81,7 +81,7 @@ Passionate about clean code and continuous learning, seeking a Front-End role in
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-magdy-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-magdy-1&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
@@ -97,7 +97,7 @@ Passionate about clean code and continuous learning, seeking a Front-End role in
 <p align="left">
   ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
   ❤️ &emsp; Love writing clean code and learning new features <br/><br/>
-  📧 &emsp; Reach me anytime: <a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a> <br/><br/>
+  📧 &emsp; Reach me anytime: <a href="mailto:king44123no@gmail.com">king44123no@gmail.com</a> <br/><br/>
   💬 &emsp; Ask me about anything <a href="https://github.com/mohamed-magdy-1">here</a>
 </p>
 
