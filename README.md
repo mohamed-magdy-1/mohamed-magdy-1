@@ -80,15 +80,17 @@ Passionate about clean code and continuous learning, seeking a Front-End role in
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
+<!-- ✅ Streak Stats - الأحدث والأستقر -->
+<img src="https://streak-stats.demolab.com/?user=mohamed-magdy-1&theme=tokyonight&hide_border=true" width="48%"/>
 
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-magdy-1&theme=tokyonight&hide_border=true" width="48%"/>
+<!-- ✅ Top Languages - ده شغال تمام -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-magdy-1&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
+<!-- ✅ GitHub Stats - ده شغال تمام -->
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-magdy-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-magdy-1&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</div>
+
 
 ---
 
